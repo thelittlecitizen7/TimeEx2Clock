@@ -1,0 +1,13 @@
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\bin\Debug\netcoreapp3.1\Ex2TimeClock.exe
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\bin\Debug\netcoreapp3.1\Ex2TimeClock.deps.json
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\bin\Debug\netcoreapp3.1\Ex2TimeClock.runtimeconfig.json
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\bin\Debug\netcoreapp3.1\Ex2TimeClock.runtimeconfig.dev.json
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\bin\Debug\netcoreapp3.1\Ex2TimeClock.dll
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\bin\Debug\netcoreapp3.1\Ex2TimeClock.pdb
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\obj\Debug\netcoreapp3.1\Ex2TimeClock.csprojAssemblyReference.cache
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\obj\Debug\netcoreapp3.1\Ex2TimeClock.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\obj\Debug\netcoreapp3.1\Ex2TimeClock.AssemblyInfo.cs
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\obj\Debug\netcoreapp3.1\Ex2TimeClock.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\obj\Debug\netcoreapp3.1\Ex2TimeClock.dll
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\obj\Debug\netcoreapp3.1\Ex2TimeClock.pdb
+C:\Users\123\source\repos\Ex2TimeClock\Ex2TimeClock\obj\Debug\netcoreapp3.1\Ex2TimeClock.genruntimeconfig.cache
